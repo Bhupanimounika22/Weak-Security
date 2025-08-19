@@ -34,10 +34,8 @@ On Airtel GPON Home Gateways, Wi-Fi settings often look like this:
 ## ✅ How to Fix
 
 1. **Log in to your router**  
-   - Open a browser and go to your router IP (usually `192.168.1.1`).  
-   - Default username: **admin**  
-   - Default password: **admin** (unless changed).  
-
+   - Open a browser and go to your router IP (usually `192.168.1.1`).
+     
 2. Go to **Network → Wireless (2.4GHz / 5GHz)**.  
 
 3. Change settings:
